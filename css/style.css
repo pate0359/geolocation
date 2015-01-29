@@ -1,70 +1,64 @@
-canvas{
-	border: 2px dashed #333;	
+canvas {
+	border: 2px dashed #333;
 }
-
 .btn {
-  background: #3498db;
-  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-  background-image: -o-linear-gradient(top, #3498db, #2980b9);
-  background-image: linear-gradient(to bottom, #3498db, #2980b9);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Georgia;
-  color: #ffffff;
-  font-size: 14px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
+	background: #3498db;
+	background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+	background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+	background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+	background-image: -o-linear-gradient(top, #3498db, #2980b9);
+	background-image: linear-gradient(to bottom, #3498db, #2980b9);
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px;
+	font-family: Georgia;
+	color: #ffffff;
+	font-size: 14px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
 	margin-top: 5%;
 	margin-left: 45%;
-	
 }
-
 .btn:hover {
-  background: #3cb0fd;
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
-  text-decoration: none;
+	background: #3cb0fd;
+	background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+	text-decoration: none;
+}
+#err_dialog {
+	position: absolute;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: #3498db;
+	text-align: center;
+	line-height: 2.5;
+	overflow: hidden;
+	color: white;
+	-webkit-box-shadow: 0 0 5px black;
+	-moz-box-shadow: 0 0 5px black;
+	box-shadow: 0 0 5px black;
 }
 
- #err_dialog {
-        position: absolute;
-        z-index: 6001;
-        top: 0;
-        left: 0;
-        right: 0;
-        background: #3498db;
-        text-align: center;
-        line-height: 2.5;
-        overflow: hidden; 
-	 	color: white;
-        -webkit-box-shadow: 0 0 5px black;
-        -moz-box-shadow:    0 0 5px black;
-        box-shadow:         0 0 5px black;
-    }
-    .cssanimations.csstransforms #err_dialog {
-        -webkit-transform: translateY(-50px);
-        -webkit-animation: slideDown 2.5s 1.0s 1 ease forwards;
-        -moz-transform:    translateY(-50px);
-        -moz-animation:    slideDown 2.5s 1.0s 1 ease forwards;
-    }
-
-.output
-{
+.output {
 	width: 400px;
 	height: 400px;
-	position:fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -200px; /*set to a negative number 1/2 of your height*/
-    margin-left: -200px; /*set to a negative number 1/2 of your width*/
-    border: 1px solid #ccc;
-/*    background-color: #f3f3f3;*/
-	
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	/*set to a negative number 1/2 of your height*/
+	margin-left: -200px;
+	/*set to a negative number 1/2 of your width*/
 }
-
+/*
+.canvas
+{
+	width: 100%;
+	height: 100%;
+}
+*/
