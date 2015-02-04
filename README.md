@@ -23,7 +23,7 @@ Here are some URLs with helpful information for **HTML5 geolocation**:
 - *[DiveIntoHTML5](http://diveintohtml5.info/geolocation.html "DiveIntoHTML5")*
 - *[HTML5Demos](http://html5demos.com/geo "HTML5Demos")*
 - *[SitePoint](http://www.sitepoint.com/html5-geolocation/ "SitePoint")*
-- 
+
 ## Author ##
 *Nignesh Patel*
 *pate0359@algonquinlive.com*
