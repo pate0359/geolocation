@@ -18,8 +18,8 @@ Once you know that it is supported then you can write the code to use it.
 
 Here are some URLs with helpful information for **HTML5 geolocation**:
 
-*[HTML5Doctor](http://html5doctor.com/finding-your-position-with-geolocation/ "HTML5Doctor")*
-*[Mozilla Developer](https://developer.mozilla.org/en/docs/WebAPI/Using_geolocation "Mozilla Developer"*
-*[DiveIntoHTML5](http://diveintohtml5.info/geolocation.html "DiveIntoHTML5"*
-*[HTML5Demos](http://html5demos.com/geo "HTML5Demos"*
-*[SitePoint](http://www.sitepoint.com/html5-geolocation/ "SitePoint"*
+-*[HTML5Doctor](http://html5doctor.com/finding-your-position-with-geolocation/ "HTML5Doctor")*
+-*[Mozilla Developer](https://developer.mozilla.org/en/docs/WebAPI/Using_geolocation "Mozilla Developer"*
+-*[DiveIntoHTML5](http://diveintohtml5.info/geolocation.html "DiveIntoHTML5"*
+-*[HTML5Demos](http://html5demos.com/geo "HTML5Demos"*
+-*[SitePoint](http://www.sitepoint.com/html5-geolocation/ "SitePoint"*
