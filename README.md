@@ -29,4 +29,4 @@ Here are some URLs with helpful information for **HTML5 geolocation**:
 - *pate0359@algonquinlive.com*
 
 ## License ##
-© 2015 MAD&D, Algonquin College
+© 2015 MAD&D, Algonquin College.
