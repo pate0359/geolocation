@@ -25,8 +25,8 @@ Here are some URLs with helpful information for **HTML5 geolocation**:
 - *[SitePoint](http://www.sitepoint.com/html5-geolocation/ "SitePoint")*
 
 ## Author ##
-*Nignesh Patel*
-*pate0359@algonquinlive.com*
+- *Nignesh Patel*
+- *pate0359@algonquinlive.com*
 
 ## License ##
 © 2015 MAD&D, Algonquin College
